@@ -8,7 +8,7 @@
 
 #### HAKAN	CENK	KALINOĞLU	
 
-**Project	Source	Code** 	:	https://www.kaggle.com/code/aydinnyunus/notebook77f8324e
+**Project	Source	Code** 	:	https://www.kaggle.com/code/aydinnyunus/notebook77f8324e21
 
 ## Scraping
 
