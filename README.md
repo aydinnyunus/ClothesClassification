@@ -144,7 +144,7 @@ The	ResNet50	architecture	also	includes	several	additional	features	to	improve	p
 good	performance.	Additionally,	the	architecture	includes	several	pooling	layers,	which	are	used	to	reduce	the	spatial	resolution	of	the	input,	further
 reducing	computational	complexity.
 
-![resnet50](https://miro.medium.com/max/1400/0*tH9evuOFqk8F41FG.png
+![resnet50](https://miro.medium.com/max/1400/0*tH9evuOFqk8F41FG.png)
 
 
 ResNet50	is	widely	used	as	a	reference	architecture	for	image	classification	tasks.	It	is	trained	on	large-scale	datasets	such	as	ImageNet	and	has	been
